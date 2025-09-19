@@ -20,7 +20,7 @@ export default function Header() {
           {/* Profile Image Container */}
           <div className="relative w-28 sm:w-28 aspect-square rounded-full overflow-hidden shadow-md">
             <Image
-              src="/profilepic.JPG"
+              src="/profilepic.jpg"
               alt="Picture of the author"
               fill
               className="object-cover"
