@@ -25,8 +25,6 @@ export default function Header() {
               fill
               className="object-cover"
               sizes="(max-width: 640px) 7rem, 10rem"
-              priority
-              unoptimized
             />
           </div>
         </div>
